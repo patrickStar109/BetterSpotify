@@ -23,3 +23,5 @@ BetterSpotify is intended to enhance your Spotify experience. It does not suppor
 ## License
 
 This project is licensed under the [MIT License](#).
+
+![BetterSpotify](https://github.com/patrickStar109/BetterSpotify/assets/61595428/ae5cb87e-fd0b-4eeb-b5c5-bb7a7611bcb0)
